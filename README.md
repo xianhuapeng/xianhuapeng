@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xianhuapeng
 - 👀 I’m interested in automation,Infrastructure, Operation etc.
-- 🌱 I’m currently learning Container, cloud
+- 🌱 I’m currently tying Container, cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... pengxh@yahoo.com
 
